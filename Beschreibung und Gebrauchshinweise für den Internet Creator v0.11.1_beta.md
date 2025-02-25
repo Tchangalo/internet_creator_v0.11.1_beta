@@ -1,4 +1,4 @@
-# **Beschreibung und Gebrauchshinweise für den Internet Creator v0.10.1\_beta**
+# **Beschreibung und Gebrauchshinweise für den Internet Creator v0.11.1\_beta**
 
 ## **Inhalt:**
 
